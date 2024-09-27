@@ -27,8 +27,8 @@
 
 Soy un apasionado desarrollador Full Stack con experiencia en crear aplicaciones web dinámicas y eficientes. Me encanta aprender nuevas tecnologías y colaborar en proyectos que impacten positivamente en la vida de las personas.
 
-- 🌍 Actualmente, trabajo en **[tuempresa.com](https://tuempresa.com)** como desarrollador **Full Stack**.
-- 🌱 Siempre estoy aprendiendo sobre nuevas tecnologías como **TypeScript, GraphQL y DevOps**.
+- 🌍 Actualmente, trabajo en **[agriglobalmarket.com](https://agriglobalmarket.com)** como desarrollador **Full Stack**.
+- 🌱 Siempre estoy aprendiendo sobre nuevas tecnologías como **TypeScript, Javascript, Nube(GCloud, AWS, Azure), Docker, Nextjs, Nestjs, GraphQL y DevOps**.
 - 💬 Puedes preguntarme sobre **React, Node.js, MongoDB, Docker, y Firebase**.
 - ⚡ Me encanta resolver problemas complejos y contribuir a proyectos **Open Source**.
 
@@ -49,7 +49,7 @@ Soy un apasionado desarrollador Full Stack con experiencia en crear aplicaciones
 
 ## 🌟 **Proyectos Destacados**
 
-### 1. [📱 App de Gestión de Tareas](https://github.com/tuusuario/tareas-app)
+### 1. [📱 App de ventas de products](https://github.com/tuusuario/tareas-app)
 Una aplicación intuitiva para la gestión de tareas diarias, diseñada para mejorar la productividad. Construida con **React, Redux y Firebase**.
 
 ### 2. [🌐 Plataforma de E-commerce](https://github.com/tuusuario/ecommerce-plataforma)
@@ -57,17 +57,6 @@ Plataforma completa de comercio electrónico con integración de pasarelas de pa
 
 ### 3. [💻 API REST para Blog](https://github.com/tuusuario/blog-api)
 Un backend potente para blogs, con autenticación, roles de usuario, y manejo de datos en **MongoDB**.
-
----
-
-## 📊 **Estadísticas de GitHub**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andersonazd&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonazd&layout=compact&theme=radical" alt="Lenguajes más usados">
-</p>
-
----
 
 ## 💡 **Inspiración**
 
