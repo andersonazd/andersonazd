@@ -47,16 +47,10 @@ Soy un apasionado desarrollador Full Stack con experiencia en crear aplicaciones
 
 ---
 
-## 🌟 **Proyectos Destacados**
+## 🌟 **Proyecto Principal**
 
 ### 1. [📱 App de ventas de products](https://github.com/tuusuario/tareas-app)
 Una aplicación intuitiva para la gestión de tareas diarias, diseñada para mejorar la productividad. Construida con **React, Redux y Firebase**.
-
-### 2. [🌐 Plataforma de E-commerce](https://github.com/tuusuario/ecommerce-plataforma)
-Plataforma completa de comercio electrónico con integración de pasarelas de pago y panel de administración. Stack utilizado: **Node.js, Express, MongoDB y Stripe**.
-
-### 3. [💻 API REST para Blog](https://github.com/tuusuario/blog-api)
-Un backend potente para blogs, con autenticación, roles de usuario, y manejo de datos en **MongoDB**.
 
 ## 💡 **Inspiración**
 
