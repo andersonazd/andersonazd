@@ -1,6 +1,6 @@
 <!-- Banner con estilo visual -->
 <p align="center">
-  <img src="https://yourbannerimage.com/banner.png" width="800" alt="Banner del perfil">
+  <img src="https://yourbannerimage.com/banner.png](https://res.cloudinary.com/dhqzql9ro/image/upload/v1727472994/Andersonazd/wrlketot2p0dvo0ujgsf.png" width="800" alt="Banner del perfil">
 </p>
 
 # 👋 ¡Hola! Soy Anderson Atehortua 👨‍💻 | Desarrollador Full Stack
