@@ -37,6 +37,8 @@ Soy un apasionado desarrollador Full Stack con experiencia en crear aplicaciones
 ## 🛠️ **Tecnologías y Herramientas**
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js">
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
