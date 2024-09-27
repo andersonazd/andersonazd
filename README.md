@@ -3,7 +3,7 @@
   <img src="https://yourbannerimage.com/banner.png" width="800" alt="Banner del perfil">
 </p>
 
-# 👋 ¡Hola! Soy [Tu Nombre] 👨‍💻 | Desarrollador Full Stack
+# 👋 ¡Hola! Soy Anderson Atehortua 👨‍💻 | Desarrollador Full Stack
 
 <p align="center">
   <strong>Bienvenido a mi rincón de GitHub donde la creatividad y el código se encuentran.</strong>
@@ -29,7 +29,7 @@ Soy un apasionado desarrollador Full Stack con experiencia en crear aplicaciones
 
 - 🌍 Actualmente, trabajo en **[agriglobalmarket.com](https://agriglobalmarket.com)** como desarrollador **Full Stack**.
 - 🌱 Siempre estoy aprendiendo sobre nuevas tecnologías como **TypeScript, Javascript, Nube(GCloud, AWS, Azure), Docker, Nextjs, Nestjs, GraphQL y DevOps**.
-- 💬 Puedes preguntarme sobre **React, Node.js, MongoDB, Docker, y Firebase**.
+- 💬 Puedes preguntarme sobre **React, Node.js, MongoDB, Docker o lo que quieras en cualquier etapa de creación de software**.
 - ⚡ Me encanta resolver problemas complejos y contribuir a proyectos **Open Source**.
 
 ---
@@ -67,13 +67,13 @@ Un backend potente para blogs, con autenticación, roles de usuario, y manejo de
 ## 📬 **Contacto**
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuperfil">
+  <a href="https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/anderson-atehortua-montoya-9485b0170">
     <img src="https://img.shields.io/badge/LinkedIn-Conéctate-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/tuusuario">
-    <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="[https://twitter.com/tuusuario](https://www.facebook.com/Andersonatehortuam)">
+    <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook">
   </a>
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:andersonam1@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge" alt="Email">
   </a>
 </p>
