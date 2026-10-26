@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Anderson Atehortua, Senior Full Stack Developer">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:080c16,100:101828&height=240&section=header&text=Anderson%20Atehortua&fontColor=dfe2f3&fontSize=56&fontAlignY=42&desc=Senior%20Full%20Stack%20Developer&descSize=22&descAlignY=64&stroke=27272a&strokeWidth=2" width="100%" alt="Anderson Atehortua, Senior Full Stack Developer">
 </p>
 
 <p align="center">Senior Full Stack Developer @ <a href="https://agriglobalmarket.com">agriglobalmarket.com</a> · Medellín, Colombia</p>
@@ -68,6 +68,6 @@ Pagos multimoneda con Stripe, inventario en tiempo real, pipelines con colas. Mi
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=andersonazd&show_icons=true&hide_border=false&bg_color=080c16&border_color=27272a&title_color=ff6584&text_color=dfe2f3&icon_color=7bd0ff" alt="Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=andersonazd&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=080c16&border_color=27272a&title_color=ff6584&text_color=dfe2f3&icon_color=7bd0ff" alt="Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonazd&layout=compact&bg_color=080c16&border_color=27272a&title_color=ff6584&text_color=dfe2f3" alt="Languages">
 </p>
