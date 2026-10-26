@@ -1,80 +1,55 @@
-<!-- Banner con estilo visual -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dhqzql9ro/image/upload/v1727472994/Andersonazd/wrlketot2p0dvo0ujgsf.png" width="800" alt="Banner del perfil">
+  <img src="assets/banner.svg" width="100%" alt="Anderson Atehortua, Senior Full Stack Developer">
 </p>
 
-# 👋 ¡Hola! Soy Anderson Atehortua 👨‍💻 | Desarrollador Full Stack
+<p align="center">Senior Full Stack Developer @ <a href="https://agriglobalmarket.com">agriglobalmarket.com</a> · Medellín, Colombia</p>
 
 <p align="center">
-  <strong>Bienvenido a mi rincón de GitHub donde la creatividad y el código se encuentran.</strong>
+  <a href="https://andersonatehortua.com"><img src="https://img.shields.io/badge/andersonatehortua.com-ff6584?style=for-the-badge&logo=googlechrome&logoColor=080c16&labelColor=080c16" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/anderson-atehortua-montoya-9485b0170/"><img src="https://img.shields.io/badge/LinkedIn-101828?style=for-the-badge&logo=linkedin&logoColor=7bd0ff" alt="LinkedIn"></a>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Distributed systems and cloud-native architecture with **.NET**, **NestJS**, **Next.js** and **AWS**.
+
+**B2B Agroindustrial Marketplace**<br>
+Multi-currency payments with Stripe, real-time inventory, queue-based pipelines. NestJS + .NET microservices.
+
+[Read more](https://andersonatehortua.com/es/capabilities/global-market-platform.md)
+
+</td>
+<td width="50%" valign="top">
+
+Sistemas distribuidos y arquitectura cloud-native con **.NET**, **NestJS**, **Next.js** y **AWS**.
+
+**Marketplace B2B Agroindustrial**<br>
+Pagos multimoneda con Stripe, inventario en tiempo real, pipelines con colas. Microservicios NestJS + .NET.
+
+[Ver más](https://andersonatehortua.com/es/capabilities/global-market-platform.md)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-101828?logo=typescript&logoColor=ff6584&style=flat-square" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-C%23-101828?logo=dotnet&logoColor=ff6584&style=flat-square" alt="C#">
+  <img src="https://img.shields.io/badge/-.NET-101828?logo=dotnet&logoColor=ff6584&style=flat-square" alt=".NET">
+  <img src="https://img.shields.io/badge/-Next.js-101828?logo=next.js&logoColor=ff6584&style=flat-square" alt="Next.js">
+  <img src="https://img.shields.io/badge/-React-101828?logo=react&logoColor=ff6584&style=flat-square" alt="React">
+  <img src="https://img.shields.io/badge/-NestJS-101828?logo=nestjs&logoColor=ff6584&style=flat-square" alt="NestJS">
+  <img src="https://img.shields.io/badge/-PostgreSQL-101828?logo=postgresql&logoColor=ff6584&style=flat-square" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MongoDB-101828?logo=mongodb&logoColor=ff6584&style=flat-square" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Redis-101828?logo=redis&logoColor=ff6584&style=flat-square" alt="Redis">
+  <img src="https://img.shields.io/badge/-AWS-101828?logo=amazonwebservices&logoColor=ff6584&style=flat-square" alt="AWS">
+  <img src="https://img.shields.io/badge/-Docker-101828?logo=docker&logoColor=ff6584&style=flat-square" alt="Docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-101828?logo=kubernetes&logoColor=ff6584&style=flat-square" alt="Kubernetes">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuperfil">
-    <img src="https://img.shields.io/badge/LinkedIn-Conéctate-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/tuusuario">
-    <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:tuemail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge" alt="Email">
-  </a>
-</p>
-
----
-
-## 🚀 Sobre Mí
-
-Soy un apasionado desarrollador Full Stack con experiencia en crear aplicaciones web dinámicas y eficientes. Me encanta aprender nuevas tecnologías y colaborar en proyectos que impacten positivamente en la vida de las personas.
-
-- 🌍 Actualmente, trabajo en **[agriglobalmarket.com](https://agriglobalmarket.com)** como desarrollador **Full Stack**.
-- 🌱 Siempre estoy aprendiendo sobre nuevas tecnologías como **TypeScript, Javascript, Nube(GCloud, AWS, Azure), Docker, Nextjs, Nestjs, GraphQL y DevOps**.
-- 💬 Puedes preguntarme sobre **React, Node.js, MongoDB, Docker o lo que quieras en cualquier etapa de creación de software**.
-- ⚡ Me encanta resolver problemas complejos y contribuir a proyectos **Open Source**.
-
----
-
-## 🛠️ **Tecnologías y Herramientas**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js">
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
-  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white" alt="GCloud">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
-</p>
-
----
-
-## 🌟 **Proyecto Principal**
-
-### 1. [📱 App de ventas de products](https://github.com/tuusuario/tareas-app)
-Una aplicación intuitiva para la gestión de tareas diarias, diseñada para mejorar la productividad. Construida con **React, Redux y Firebase**.
-
-## 💡 **Inspiración**
-
-"El código es como el arte, no tiene límites. Cada línea es una oportunidad para mejorar el mundo."
-
----
-
-## 📬 **Contacto**
-
-<p align="center">
-  <a href="https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/anderson-atehortua-montoya-9485b0170">
-    <img src="https://img.shields.io/badge/LinkedIn-Conéctate-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="[https://twitter.com/tuusuario](https://www.facebook.com/Andersonatehortuam)">
-    <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook">
-  </a>
-  <a href="mailto:andersonam1@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge" alt="Email">
-  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=andersonazd&show_icons=true&hide_border=false&bg_color=080c16&border_color=27272a&title_color=ff6584&text_color=dfe2f3&icon_color=7bd0ff" alt="Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonazd&layout=compact&bg_color=080c16&border_color=27272a&title_color=ff6584&text_color=dfe2f3" alt="Languages">
 </p>
